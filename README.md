@@ -13,7 +13,7 @@ About Me
 💻 Expertise: MERN stack (MongoDB, Express.js, React, Node.js), Next.js, TypeScript, and more.
 🌐 Building responsive, scalable, and user-focused web and mobile experiences.
 📧 Reach me at: henokworku652@gmail.com
-🌍 Connect with me on LinkedIn
+🌍 Connect with me on LinkedIn  https://www.linkedin.com/in/henokworku652
 
 
 

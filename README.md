@@ -105,13 +105,6 @@ MERN Stack: A full JavaScript ecosystem for building dynamic, scalable web appli
 Next.js: Takes React to the next level with server-side rendering, static site generation, and built-in API routes. Perfect for SEO-friendly, high-performance apps with minimal setup.
 
 
-GitHub Stats & Badges
-
-
-<img width="467" height="195" alt="image" src="https://github.com/user-attachments/assets/63303ac0-5d14-41ea-aeae-adc213358b39" />
-
-
-<img width="300" height="165" alt="image" src="https://github.com/user-attachments/assets/b3d6f0c1-0082-4ad7-b5e6-7c40fa1e0c84" />
 
 Let’s Build Something Amazing! 🌍
 

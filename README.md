@@ -10,9 +10,9 @@ About Me
 n innovation.
 💻 Skilled in MERN (MongoDB, Express.js, React, Node.js), Next.js, and TypeScript.
 🌐 Crafting responsive, user-centric web experiences.
-📧 Reach me at henokworku@example.com
-🌍 Connect on LinkedIn | Twitter
+📧 Reach me at henokworku652@gmail.com
 
+🌍 Connect on LinkedIn https://www.linkedin.com/in/henokworku652
 Featured Projects
 
 AI-Powered E-Commerce - Smart shopping with real-time recommendations! 🛒

@@ -3,7 +3,6 @@ Hey there! 👋 I'm Henok Worku! 🚀
 Welcome to my GitHub universe! I'm a passionate Computer Science graduate and web developer with a knack for crafting innovative, user-centric solutions. Specializing in the MERN stack, Next.js, and a variety of programming languages, I’m here to build the future, one line of code at a time! 🌟
 
 
-
 About Me
 
 <img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/e81004e2-1fd6-4ae7-a45a-1ee1abea1a4e" />

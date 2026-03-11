@@ -172,8 +172,7 @@ Kicked off my web dev journey; multiple projects on GitHub with React, Next.js, 
 
 | Degree | Institution | Highlights |
 |--------|-------------|------------|
-| **B.Sc. Computer Science** | Bahir Dar University | **GPA 3.72/4.0** · Exit Exam **83%** |
-| **BBA** | Bluemark College, Ethiopia | Business Administration |
+| **B.Sc. Computer Science** | Bahir Dar University 
 
 </div>
 

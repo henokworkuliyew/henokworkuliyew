@@ -102,6 +102,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer&fontSize=20&fontColor=ffffff" width="100%" alt="Footer"/>
 
-*Thanks for visiting — this is my experience & work under **@henokworku**.*
+*Thanks for visiting🙏.*
 
 </div>
